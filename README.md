@@ -1,6 +1,6 @@
 ### Hello! I am Marco Batista 👌
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/marcojnr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcojnr&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
 </div>
@@ -11,6 +11,7 @@
 - 🧑‍💻 I’m currently learning C++
 - 🤔 I’m looking for help with Machine Learning
 
+  
 ##
   
 ##### Languages:
