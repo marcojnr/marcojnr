@@ -1,22 +1,23 @@
-### Hello! I am Marco Batista 👌
+### Hello! I am Marco Batista ✌️
 
 <div align="left">
   <a href="https://github.com/marcojnr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcojnr&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
 </div>
 
-
+## 
+[]()
 - 🔭 I’m currently working on TCERJ with BI
-- 🌱 I’m currently learning Python and R for Data Science
-- 🧑‍💻 I’m currently learning C++
-- 🤔 I’m looking for help with Machine Learning
+- 👨‍💻 I’m currently learning Python and R for Data Science
+- 📒 I’m currently learning C++
+-  💁‍♂️ I’m looking for help with Machine Learning and POO
 
-  
+
 ##
   
 ##### Languages:
 <div>
-  <img align="center" alt="Marco-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Marco-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" >
   <img align="center" alt="Marco-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
   <img align="center" alt="Marco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
