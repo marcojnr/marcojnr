@@ -7,10 +7,10 @@
 
 ## 
 []()
-- 🔭 I’m currently working on TCERJ with BI
+- 🔭 I’m currently working on Impacta Lawtech with BI and database
 - 👨‍💻 I’m currently learning Python and R for Data Science
 - 📒 I’m currently learning C++
--  💁‍♂️ I’m looking for help with Machine Learning and POO
+- 💁‍♂️ I’m looking for help with Machine Learning and POO
 
 
 ##
