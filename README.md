@@ -10,11 +10,11 @@
 []()
 
 - 💻 I’m currently working on Mobi2buy with Data
-- ⚒️ The main technologies I am using are: Python, SQL, Shell Script, GIT and Cloud
+- ⚒️ The main technologies I am using are: Python, SQL, Shell Script, GIT and DBT
 - 💹 I’m currently reading about Statistics and Data
-- 👨‍💻 I’m currently learning DBT (Data Build Tool)
+- 👨‍💻 I’m currently learning Apache Airflow
 - 🤖 I’m currently learning Machine Learning
-- ☁️ I’m currently learning Cloud and Docker
+- ☁️ I’m currently learning CI/CD
 - 🌆 I have knowledge in front-end with HTML5, CSS e JavaScript
 - 💁‍♂️ I’m looking for help with AI
 
